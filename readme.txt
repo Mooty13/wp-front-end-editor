@@ -1,3 +1,12 @@
+## Openminded Fork ###
+
+  - Better notification if locked.
+  - TODO : Improved gallery rendering
+  - TODO : Edit Categories
+  - TODO : Edit Advanced Custom Fields
+
+See original here : https://github.com/iseulde/wp-front-end-editor
+
 === Front-end Editor ===
 
 Contributors:      iseulde, fleuron, siteground
