@@ -166,16 +166,19 @@ br.fee-title {
 /* Content */
 
 .notification-dialog {
-	position: fixed;
-	top: 30%;
-	left: 50%;
-	width: 450px;
-	margin-left: -225px;
-	background: #fff;
-	line-height: 1.5;
-	z-index: 1000005;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    margin-left: 0;
+    background: #fff;
+    line-height: 1.5;
+    z-index: 1000005;
+    text-align: center;
+    border-top: 1px solid #ccc;
+    font-size: 150%;
 }
-
+/*
 .notification-dialog-background {
 	position: fixed;
 	top: 0;
@@ -187,6 +190,7 @@ br.fee-title {
 	filter: alpha(opacity=50);
 	z-index: 1000000;
 }
+*/
 
 #post-lock-dialog .post-locked-message,
 #post-lock-dialog .post-taken-over {
